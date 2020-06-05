@@ -9,3 +9,4 @@ for f in os.listdir():
 #    f_no = f_no[4:]
     nf = '{}{}'.format(f_name, f_ext)
     os.rename(f, nf)
+# just a testing the commit
